@@ -1,2 +1,2 @@
 # whether-info-app-js
-a whether info app
+A whether info app made in JavaScript
